@@ -1,3 +1,3 @@
 # simple-socket-client
 
-Simple socket client, implemented in C.
+Simple socket-output client, implemented in C.
