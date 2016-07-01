@@ -22,7 +22,7 @@ int main(int argc, char *argv[]) {
    char *vers = "0.1";
    char buffer[256]; /* 256-char buffer */
    
-   /* Print helptext if less than 3 arguments supplied to run-command */
+   /* Print helptext if less than 2 arguments supplied to run-command */
    if (argc < 3) {
       fprintf(stderr,"Simple Socket Client v%s (64-bit)\n", vers);
       fprintf(stderr,"Usage: %s <hostname> <port-number>\n", argv[0]);
