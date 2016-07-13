@@ -1,13 +1,12 @@
-/******************************************************
-/ Name:          Simple Socket Client (in C)
-/ Created:       20160629-13:01-GMT+1
-/
-/ Creator:       Kim Olsen <post@kimeriktjoraolsen.no>
-/ Lastchanhge:   20160701-05:10-GMT+1
-/
-/ Simple socket client, implemented in C.
-/
-******************************************************/
+/*
+* Name:          Simple Socket Client (in C)
+* Created:       20160629-13:01-GMT+1
+*
+* Creator:       Kim Olsen <post@kimeriktjoraolsen.no>
+* Lastchanhge:   20160701-05:10-GMT+1
+*
+* Simple socket client, implemented in C.
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
