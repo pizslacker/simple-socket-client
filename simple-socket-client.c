@@ -3,7 +3,7 @@
 * Created:       20160629-13:01-GMT+1
 *
 * Creator:       Kim Olsen <post@kimeriktjoraolsen.no>
-* Lastchanhge:   20160701-05:10-GMT+1
+* Lastchange:   20160701-05:10-GMT+1
 *
 * Simple socket client, implemented in C.
 */
