@@ -2,8 +2,8 @@
 * Name:          Simple Socket Client (in C)
 * Created:       20160629-13:01-GMT+1
 *
-* Creator:       Kim Olsen <post@kimeriktjoraolsen.no>
-* Lastchange:   20160701-05:10-GMT+1
+* Creator:       (c)2017 Kim Olsen post-at-kimeriktjoraolsen-dot-no
+* Lastchange:    20170731-17:24-GMT+1
 *
 * Simple socket client, implemented in C.
 */
